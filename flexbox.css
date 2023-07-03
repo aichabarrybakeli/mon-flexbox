@@ -1,0 +1,66 @@
+nav {
+    background-color: deeppink;
+    width: 1200px;
+    height: 100px;
+    margin-left: 150px;
+}
+
+aside {
+    background-color: aqua;
+    width: 160px;
+    height: 800px;
+    margin-left: -10px;
+    margin-top: 5px;
+    position: fixed;
+}
+
+footer {
+background-color: blueviolet;
+width: 900px;
+height: 150px;
+margin-left: 200px;
+
+bottom: 20px;
+position: fixed;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*body {
+    font-family: verdana sans-serif;
+}
+
+.navbar1 {
+    background-color: deeppink;
+    width: 900px;
+    height: 100px;
+}
+
+.navbar2 {
+    background-color: blueviolet;
+    width: 900px;
+    height: 100px;
+}
+
+.navbar3 {
+    background-color: aqua;
+    width: 100px;
+    height: 900px;
+}
